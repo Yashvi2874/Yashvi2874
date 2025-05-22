@@ -24,17 +24,32 @@
 
 ### 🛠️ Tech Stack
 
-- <img src="https://skillicons.dev/icons?i=html" width="20"/> **HTML**
-- <img src="https://skillicons.dev/icons?i=css" width="20"/> **CSS**
-- <img src="https://skillicons.dev/icons?i=js" width="20"/> **JavaScript**
-- <img src="https://skillicons.dev/icons?i=react" width="20"/> **React.js**
-- <img src="https://skillicons.dev/icons?i=nodejs" width="20"/> **Node.js**
-- <img src="https://skillicons.dev/icons?i=express" width="20"/> **Express.js**
-- <img src="https://skillicons.dev/icons?i=mongodb" width="20"/> **MongoDB**
-- <img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> **Bootstrap**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/> **Figma**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"/> **C**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> **Python**
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" width="20"/> HTML</td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
+   <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/> Figma</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> Bootstrap</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" width="20"/> React.js</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"/> C</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="20"/> C++</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=express" width="20"/> Express.js</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> Python</td>
+  </tr>
+</table>
 
 <!---
 Yashvi2874/Yashvi2874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
