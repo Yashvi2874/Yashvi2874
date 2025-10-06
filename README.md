@@ -1,8 +1,8 @@
 ## 👋 Hello World, I’m Yashasvi Gupta
 
 ### 👩‍💻 About Me
-- 🌐 I’m a **Full Stack Web Developer** currently leading web development at [SSRP (Somaiya Space Research Project)](https://ssrp.in)  
-- 🖥️ Working on SSRP's official website and building GUIs for telemetry data visualization  
+- 🌐 I’m a **Full Stack Web Developer** currently leading the Tech Team at [SSRP (Somaiya Space Research Project)](https://ssrp.in)  
+- 🖥️ Working on SSRP's official website, building GUIs for telemetry data visualization, ML projects and Robot Operating system  
 - 👀 Passionate about **Physics** and exploring its intersection with technology  
 - 🤝 Open to collaborations on web development or physics-related tech projects  
 - 🎨 Outside of tech, I enjoy painting, dancing, and studying astronomy  
