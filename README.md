@@ -25,8 +25,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Yashasvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashvi2874&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi2874&layout=compact&theme=default)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashvi2874)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashvi2874)
 
 ---
 
