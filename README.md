@@ -1,56 +1,60 @@
-## 👋 Hello World, I’m Yashasvi Gupta  
+<div align="center">
 
-### 👩‍💻 About Me  
-- 🌐 **Full Stack Web Developer (MERN)** and **Tech Team Lead** at [SSRP – Somaiya Space Research Project](https://ssrp.in)  
-- 🛰️ Worked on **telemetry data visualization GUIs**, SSRP’s official website, **ML-based inspection projects**, and **ROS-based systems**  
-- 🧠 Strong interest in **AI/ML, Computer Vision, and their applications in aerospace and robotics**  
-- 🔬 Passionate about **Physics** and exploring its intersection with intelligent systems  
-- 🤝 Open to collaborations in **web development, AI/ML, robotics, and physics-driven tech projects**  
-- 🎨 Beyond tech, I enjoy **painting, dancing, and studying astronomy**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&animation=fadeIn" width="100%" alt=""/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=42&pause=99999&color=56CFE1&center=true&vCenter=true&repeat=false&width=760&height=56&lines=Yashasvi+Gupta" alt="Yashasvi Gupta"/>
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=17&pause=99999&color=56CFE1&center=true&vCenter=true&repeat=false&width=760&height=24&lines=Computer+Engineering++%7C++Minor+in+Aerospace+Engineering" alt="Computer Engineering | Minor in Aerospace Engineering"/>
 
-### 🚀 Currently Working On
-- AI/ML in aerospace, aeronautics, and autonomous systems  
-- NLP-based chatbots for education and mental health  
-- Physics-driven analysis of sensor and telemetry data  
-- Intelligent data visualization platforms
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2600&pause=900&color=9AD8E3&center=true&vCenter=true&width=700&height=58&lines=Full+Stack+Engineering;Artificial+Intelligence+and+Machine+Learning;AI+x+Space;Forward+Deployed+Engineering;Physics+and+Aerospace+Technologies" alt="interests"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:56CFE1,100:0F2027&height=3&section=header&animation=twinkling" width="100%" alt=""/>
 
-### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasvi-gupta-1230b423a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasvigupta28@gmail.com)
+</div>
 
----
+## About me 👋
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashvi2874)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yashvi2874)
+I am a final year Computer Engineering student at K. J. Somaiya School of Engineering in Mumbai, with a minor in Aerospace Engineering. I was Computer Systems Head at the [Somaiya Space Research Project](https://ssrp.in), where I led the tech team and we built the telemetry dashboards, ML pipelines and ground software that kept our rockets and satellites talking to the people watching from below. Last summer I worked as an AI intern at Manastu Space, embedding agentic and generative AI into the way the company actually works day to day, and somewhere between the two I co-authored an IEEE paper on how to keep knowing where you are after GPS gives up on you. I am particularly drawn to forward deployed engineering, full stack work, and anything that sits where AI meets aerospace. Away from the keyboard you will find me painting, dancing, or pointing a telescope at whatever is up that night.
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:56CFE1,100:0F2027&height=3&section=header&animation=twinkling" width="100%" alt=""/></div>
 
-### 🛠️ Tech Stack  
+## A few things I am proud of
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html" width="20"/> HTML</td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="20"/> CSS</td>
-    <td><img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript</td>
-    <td><img src="https://skillicons.dev/icons?i=react" width="20"/> React.js</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js</td>
-    <td><img src="https://skillicons.dev/icons?i=express" width="20"/> Express.js</td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB</td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> Bootstrap</td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="20"/> C</td>
-    <td><img src="https://skillicons.dev/icons?i=cpp" width="20"/> C++</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> Python</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/> Figma</td>
-  </tr>
-</table>
+- **3rd place at AEROTHON 2026**, HAL x IIIT Dharwad, for INSPECT-AR: aircraft inspection that measures a part from a photograph to within 0.14% calibration error and finds defects with a Faster R-CNN trained on 5,672 images
+- **IEEE SPACE 2026 paper** on GNSS denied navigation, where a GRU and Ridge hybrid held drift inside 12 m, a wind driven simulator predicted landings to a 2 m median, and a risk classifier reached 99.48% accuracy
+- **Top 30 nationwide** for the IN-SPACe Space Student Immersion Program at ISRO's Space Applications Centre
+- **Two IN-SPACe national competitions** with SSRP, CanSat India and Model Rocketry India 2024-25, where the telemetry software had to work outdoors, on the day, with exactly one attempt
+- **Building A.I.S.H.A**, my final year project: an AI companion that reads mood from text, voice and expression, answers through a lip synced 3D avatar, and hands crisis language off to real support services
+- **MyVaani**, a speaking aid for non verbal children with a three layer adaptive learning mode and caregiver analytics, validated across 25 neuro inclusive design parameters, with a paper under publication
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yashvi2874&color=blue)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:56CFE1,100:0F2027&height=3&section=header&animation=twinkling" width="100%" alt=""/></div>
+
+## Things I build with
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,tailwind,react,nodejs,express,fastapi&theme=dark" alt="languages and web"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,postgres,docker,git,firebase,vercel,figma,arduino&theme=dark" alt="ml and tools"/>
+</p>
+
+## Get in touch
+
+I am always glad to talk about aerospace systems, machine learning, and the software that sits between the two.
+
+<p>
+<a href="https://www.linkedin.com/in/gupta-yashasvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yashasvigupta28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Yashvi2874"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashvi2874&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi2874&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Most used languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashvi2874&bg_color=0F2027&color=56CFE1&line=56CFE1&point=FFFFFF&area=true&area_color=203A43&hide_border=true&custom_title=Where%20the%20commits%20went" width="95%" alt="activity graph"/>
+
+<img src="https://komarev.com/ghpvc/?username=Yashvi2874&style=flat-square&color=56CFE1&label=Profile+views" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt=""/>
+
+</div>
